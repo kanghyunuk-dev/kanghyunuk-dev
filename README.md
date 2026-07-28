@@ -74,16 +74,11 @@ PER, PBR, ROE, Piotroski F-Score 등을 계산하고,
 <br/><br/>
 
 **Collaboration**<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kanghyunuk-dev&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kanghyunuk-dev&theme=default" />
+</div>
 
 </div>
 
 <br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.athul.dev/api?username=kanghyunuk-dev&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.athul.dev/api/top-langs/?username=kanghyunuk-dev&layout=compact&hide_border=true&hide=html,css" />
-</div>
