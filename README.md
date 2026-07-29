@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Kang%20Hyunuk&fontSize=50&animation=twinkling&fontColor=000000" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=Kang%20Hyunuk&fontSize=50&animation=twinkling&fontColor=555" />
 </div>
 
 <div align="center">
@@ -45,7 +45,7 @@ PER, PBR, ROE, Piotroski F-Score 등을 계산하고,
 
 <div align="center">
 
-**Frontend**<br/>
+### Frontend<br/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
@@ -53,7 +53,7 @@ PER, PBR, ROE, Piotroski F-Score 등을 계산하고,
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <br/><br/>
 
-**Backend**<br/>
+### Backend<br/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
@@ -62,23 +62,24 @@ PER, PBR, ROE, Piotroski F-Score 등을 계산하고,
 <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
 <br/><br/>
 
-**Database / Cloud**<br/>
+### Database / Cloud<br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 <br/><br/>
 
-**CI/CD**<br/>
+### CI/CD<br/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 <br/><br/>
 
-**Collaboration**<br/>
+</div>
+
+## 🤝 Collaboration
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kanghyunuk-dev&theme=default" />
 </div>
 
-</div>
 
 <br/>
 
