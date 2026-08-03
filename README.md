@@ -13,31 +13,11 @@
 
 <br/>
 
-## 🚀 Featured Project
+## 📈 Contribution
 
-<table>
-<tr>
-<td width="100%">
-
-### [ValuePick — 가치투자 지표 기반 종목 스크리닝 서비스](https://www.valuepick.cloud)
-
-가치투자 지표를 기반으로 저평가 우량주를 추천하는 서비스입니다.
-
-매일 재무데이터와 시세 데이터를 자동 수집하여
-PER, PBR, ROE, Piotroski F-Score 등을 계산하고,
-다팩터 가중 스코어링을 통해 TOP100 종목을 제공합니다.
-
-**4인 팀 프로젝트 (팀장)**
-- 프로젝트 기획 및 일정 관리
-- Spring Security + JWT 인증/인가 구현, 회원탈퇴 즉시 반영 트레이드오프 처리
-- AWS EC2, Docker, Jenkins 기반 CI/CD 및 배포
-- N+1 방지, 배치 스케줄러 파이프라인 순서 보장 등 트러블슈팅
-
-**[🔗 서비스 바로가기](https://www.valuepick.cloud)** · **[📄 GitHub 저장소](https://github.com/project-valuepick/valuepick)**
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img width="100%" src="profile-3d-contrib/profile-night-rainbow.svg" />
+</div>
 
 <br/>
 
@@ -75,18 +55,32 @@ PER, PBR, ROE, Piotroski F-Score 등을 계산하고,
 
 </div>
 
-## 🤝 Collaboration
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kanghyunuk-dev&theme=default" />
-</div>
-
-
 <br/>
 
-## 📈 Contribution
+## 🚀 Featured Project
 
-<div align="center">
-  <img width="100%" src="profile-3d-contrib/profile-night-rainbow.svg" />
-</div>
+<table>
+<tr>
+<td width="100%">
+
+### [ValuePick — 가치투자 지표 기반 종목 스크리닝 서비스](https://www.valuepick.cloud)
+
+가치투자 지표를 기반으로 저평가 우량주를 추천하는 서비스입니다.
+
+매일 재무데이터와 시세 데이터를 자동 수집하여
+PER, PBR, ROE, Piotroski F-Score 등을 계산하고,
+다팩터 가중 스코어링을 통해 TOP100 종목을 제공합니다.
+
+**4인 팀 프로젝트 (팀장)**
+- 프로젝트 기획 및 일정 관리
+- Spring Security + JWT 인증/인가 구현, 회원탈퇴 즉시 반영 트레이드오프 처리
+- AWS EC2, Docker, Jenkins 기반 CI/CD 및 배포
+- N+1 방지, 배치 스케줄러 파이프라인 순서 보장 등 트러블슈팅
+
+**[🔗 서비스 바로가기](https://www.valuepick.cloud)** · **[📄 GitHub 저장소](https://github.com/project-valuepick/valuepick)**
+
+</td>
+</tr>
+</table>
 
 <br/>
