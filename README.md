@@ -39,11 +39,13 @@
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white">
+<img src="https://img.shields.io/badge/OAuth2-3C3C3D?style=for-the-badge&logo=auth0&logoColor=white">
 <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
 <br/><br/>
 
 ### Database / Cloud<br/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 <br/><br/>
 
@@ -78,6 +80,27 @@ PER, PBR, ROE, Piotroski F-Score 등을 계산하고,
 - N+1 방지, 배치 스케줄러 파이프라인 순서 보장 등 트러블슈팅
 
 **[🔗 서비스 바로가기](https://www.valuepick.cloud)** · **[📄 GitHub 저장소](https://github.com/project-valuepick/valuepick)**
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### [MoneyLog — 1인 가계부 서비스](https://moneylog.store)
+
+수입/지출 기록, 카테고리별 예산 관리, 월별 통계, 목표자산 추적까지 제공하는 1인용 가계부 서비스입니다.
+
+일반 로그인뿐 아니라 구글 OAuth2 소셜로그인을 직접 구현했고,
+Redis로 로그아웃/탈퇴 시 토큰 즉시 무효화와 사용자 캐싱을 적용했습니다.
+
+**개인 프로젝트**
+- 기획부터 백엔드/프론트엔드 설계·구현, 배포까지 전 과정 진행
+- JWT(httpOnly+CSRF) 인증 + 구글 OAuth2 소셜로그인, 이메일 기준 계정 자동 연결
+- Redis 기반 토큰 블랙리스트, 사용자 캐싱(TTL), 장애 시 인증 폴백 경로 설계
+- AWS EC2 + Docker Compose + Nginx + Let's Encrypt 배포, GitHub Actions CI/CD 자동화
+- React 함수형 컴포넌트 + Context 상태관리, 라우트 단위 코드 스플리팅, 모바일 반응형
+
+**[🔗 서비스 바로가기](https://moneylog.store)** · **[📄 GitHub 저장소](https://github.com/kanghyunuk-dev/moneylog)**
 
 </td>
 </tr>
